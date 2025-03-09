@@ -31,6 +31,7 @@ I used this to make Lasagna Etc - Highlights: https://www.nexusmods.com/nomanssk
 7. Select Tools > nums_for_testing. What this does:
 + A) adds unique rockdoors to all 200 biome objects
 + B) renames all biome object filenames
+
 Now, in-game if you find e.g. a "tall" rockdoor with a number 12 on it, that means you're on "12_TALL" biome object.
 
 Import back into Plumgen to further refine things.
