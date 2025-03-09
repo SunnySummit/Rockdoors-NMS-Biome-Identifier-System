@@ -23,12 +23,13 @@ I used this to make Lasagna Etc - Highlights: https://www.nexusmods.com/nomanssk
 ### Instructions
 
 1. Download Plumgen: https://github.com/SunnySummit/PLUMGEN/releases
-2. Place '__NUMBERS_FOR_TESTING.csv' in '_Biome Templates' folder
-3. Place '_____ROCKDOORS_TEST Worlds 22' folder in 'MODS'
-4. Within Plumgen, right click 'New Biome' button -> generate 200 biomes (can be less, but NOT more)
-5. Select '__NUMBERS_FOR_TESTING.csv' from the Biome Template dropdown menu
-6. Select both checkboxes next to the dropdown menu
-7. Select Tools > nums_for_testing. What this does:
+2. Download the archive under Releases (or [click here](https://github.com/SunnySummit/Rockdoors-NMS-Biome-Identifier-System/releases))
+3. Place '__NUMBERS_FOR_TESTING.csv' in '_Biome Templates' folder
+4. Place '_____ROCKDOORS_TEST Worlds 22' folder in 'MODS'
+5. Within Plumgen, right click 'New Biome' button -> generate 200 biomes (can be less, but NOT more)
+6. Select '__NUMBERS_FOR_TESTING.csv' from the Biome Template dropdown menu
+7. Select both checkboxes next to the dropdown menu
+8. Select Tools > nums_for_testing. What this does:
 + A) adds unique rockdoors to all 200 biome objects
 + B) renames all biome object filenames
 
