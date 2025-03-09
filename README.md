@@ -1,5 +1,11 @@
 # ROCKDOORS
 
+[![License](https://img.shields.io/github/license/SunnySummit/Rockdoors-NMS-Biome-Identifier-System)](https://github.com/SunnySummit/Rockdoors-NMS-Biome-Identifier-System/blob/main/LICENSE)
+[![Downloads](https://img.shields.io/github/downloads/SunnySummit/Rockdoors-NMS-Biome-Identifier-System/total.svg)](https://github.com/SunnySummit/Rockdoors-NMS-Biome-Identifier-System/releases)
+[![Stars](https://img.shields.io/github/stars/SunnySummit/Rockdoors-NMS-Biome-Identifier-System)](https://github.com/SunnySummit/Rockdoors-NMS-Biome-Identifier-System/stargazers)
+[![Issues](https://img.shields.io/github/issues/SunnySummit/Rockdoors-NMS-Biome-Identifier-System)](https://github.com/SunnySummit/Rockdoors-NMS-Biome-Identifier-System/issues)
+[![Version](https://img.shields.io/github/v/release/SunnySummit/Rockdoors-NMS-Biome-Identifier-System)](https://github.com/SunnySummit/Rockdoors-NMS-Biome-Identifier-System/releases)
+
 Tested/compatible with NMS version 5.58
 
 ### General
@@ -8,7 +14,7 @@ I used this to make Lasagna Etc - Highlights: https://www.nexusmods.com/nomanssk
 
 + This is a method for identifying planets in-game.
 + The folder contains 200 custom models, organized into 4 categories.
-+ Each of these 4 categories is numbered from 1 to 50, each model has a unique texture (see 'rockdoors compared.jpg' for a rough comparison).
++ Each of these 4 categories is numbered from 1 to 50, each model has a unique texture ([comparison image](https://github.com/SunnySummit/Rockdoors-NMS-Biome-Identifier-System/blob/main/rockdoors%20compared.jpg)).
 	+ 50 Reg - regular sized rockdoors
 	+ 50 Small Float - floating small
 	+ 50 Big - Largest
@@ -27,7 +33,7 @@ I used this to make Lasagna Etc - Highlights: https://www.nexusmods.com/nomanssk
 + B) renames all biome object filenames
 Now, in-game if you find e.g. a "tall" rockdoor with a number 12 on it, that means you're on "12_TALL" biome object.
 
-Import back into Plumgen to further refine things. :)
+Import back into Plumgen to further refine things.
 
 ### Credits:
 
